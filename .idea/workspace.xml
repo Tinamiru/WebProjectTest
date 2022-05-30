@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6b3046e-7f2f-43d1-bd6e-946b1257b089" name="변경" comment=" Web Publishing Project">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/outStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work/best.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work/etc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work/pants.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work/quic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work/quick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work/s&amp;b.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work/sale.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/work/top.html" afterDir="false" />
+    <list default="true" id="a6b3046e-7f2f-43d1-bd6e-946b1257b089" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/outStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/outStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/work/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/work/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +72,20 @@
       <updated>1653642109491</updated>
       <workItem from="1653642110799" duration="27000" />
       <workItem from="1653642158139" duration="10732000" />
-      <workItem from="1653653022220" duration="197000" />
+      <workItem from="1653653022220" duration="222000" />
+      <workItem from="1653653282684" duration="2000" />
+      <workItem from="1653821548239" duration="1349000" />
+      <workItem from="1653826617268" duration="3000" />
+      <workItem from="1653889579720" duration="1062000" />
     </task>
+    <task id="LOCAL-00001" summary=" Web Publishing Project">
+      <created>1653653233399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653653233399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

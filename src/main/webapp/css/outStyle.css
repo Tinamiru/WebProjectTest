@@ -27,7 +27,6 @@
     box-sizing: border-box;
     padding: 4px;
     height: 80px;
-    text-align: center;
 }
 
 #topMenu > div{
@@ -40,6 +39,10 @@
     padding-top: 25px;
     margin: auto;
     width: auto;
+    position: absolute;
+    display: flex;
+    text-align: center;
+    justify-content: center;
 }
 
 
@@ -64,7 +67,7 @@
 }
 
 #left {
-    font-family: 'SDSamliphopangche_Outline';
+    font-family: 'SDSamliphopangche_Outline', serif;
     padding-left: 10%;
 }
 
@@ -119,7 +122,6 @@ h1 {
 
 ul {
     list-style: none;
-    padding-left: 0px;
 }
 
 span {
